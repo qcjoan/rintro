@@ -12,3 +12,5 @@ Deepayan Sarkar's book "Lattice: Multivariate Data Visualization with R"
 Hadley Wickham's book "ggplot2: Elegant Graphics for Data Analysis"
 William Venables & Brian Ripley's book "Modern Applied Statistics with S" - uses R to illustrate many advanced statistical techniques. The books functions and datasets are available in the MASS package, which is included in the standard distribution of R.
 John Verzani's book "Using R for Introductory Statistics"
+Stack Overflow site
+R Cookbook, 2nd Edition - https://rc2e.com/
